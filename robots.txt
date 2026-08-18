@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-3rx7a3.originmovement.co.nz/sitemap.xml
